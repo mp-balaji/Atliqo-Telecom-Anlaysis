@@ -28,6 +28,8 @@ Create relevant insights not provided in the metric list/mock-up dashboard to su
 
 
 ![Dashboards](https://user-images.githubusercontent.com/104824947/212523791-3984ea6f-bc7e-4d37-ac61-419c7a195a52.png)
+![Dashboards](https://user-images.githubusercontent.com/104824947/212525426-af7a335d-352d-439b-8bf8-d58d3ad335a8.png)
+
 
 ## Insights
 - The **Total revenue** has dropped by 7.8%, but once the 5G services was implemented, there was only a decrease of 0.5%
