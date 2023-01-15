@@ -2,6 +2,9 @@
 
 ### The project involves studying and comparing key performance indicators for a leading telecom company by utilizing Tableau. It was developed as an end-to-end tableau project for Code Basics Resume Project Challenge.
 
+##Essential Links:
+- https://codebasics.io/event/codebasics-resume-project-challenge
+- https://public.tableau.com/views/CB3_Challenge/Title?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 ## Problem Statement 
