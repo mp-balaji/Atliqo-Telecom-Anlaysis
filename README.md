@@ -15,3 +15,5 @@ However, the management noticed a decline in their active users and revenue grow
 - Create the comparison report based on the mock-up provided. Please note the mock-up is created by a business user who has a minimal idea about dashboarding. Hence you need to represent the insights in a much better way
 - The target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand
 Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
+
+![Data Modelling](https://user-images.githubusercontent.com/104824947/212523548-31927323-87ac-49dc-840c-ed2aa5770783.png)
