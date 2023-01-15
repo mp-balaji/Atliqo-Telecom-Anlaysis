@@ -16,4 +16,12 @@ However, the management noticed a decline in their active users and revenue grow
 - The target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand
 Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
+
+
 ![Data Modelling](https://user-images.githubusercontent.com/104824947/212523548-31927323-87ac-49dc-840c-ed2aa5770783.png)
+
+
+## Quick Dahsboard Preview
+
+
+![Dashboards](https://user-images.githubusercontent.com/104824947/212523791-3984ea6f-bc7e-4d37-ac61-419c7a195a52.png)
