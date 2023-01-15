@@ -41,3 +41,4 @@ Create relevant insights not provided in the metric list/mock-up dashboard to su
 - The plans "p2" and "p3" have performed well in terms of revenue both before and after the launch of 5G
 
 
+**Note:** Some of the icons used in my project are from <a href="https://www.flaticon.com/free-icons/next" title="next icons">Next icons created by Pixel perfect - Flaticon</a>. 
