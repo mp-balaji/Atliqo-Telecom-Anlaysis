@@ -29,6 +29,9 @@ Create relevant insights not provided in the metric list/mock-up dashboard to su
 
 ![Dashboards](https://user-images.githubusercontent.com/104824947/212523791-3984ea6f-bc7e-4d37-ac61-419c7a195a52.png)
 
-
+## Insights
+- The **Total revenue** has dropped by 7.8%, but once the 5G services was implemented, there was only a decrease of 0.5%
+- The **average revenue per user** for the company is currently at 200.7 rupees, and after the implementation of 5G, it has seen a significant increase of 11%
+- 
 
 
