@@ -28,7 +28,7 @@ Create relevant insights not provided in the metric list/mock-up dashboard to su
 
 
 ![Dashboards](https://user-images.githubusercontent.com/104824947/212523791-3984ea6f-bc7e-4d37-ac61-419c7a195a52.png)
-![Dashboards](https://user-images.githubusercontent.com/104824947/212525426-af7a335d-352d-439b-8bf8-d58d3ad335a8.png)
+![Linkedin Post Dashboard Preview](https://user-images.githubusercontent.com/104824947/212525446-0b0c4903-0c4b-44bc-bc59-43624b8edb63.png)
 
 
 ## Insights
