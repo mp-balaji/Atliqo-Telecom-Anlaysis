@@ -32,6 +32,12 @@ Create relevant insights not provided in the metric list/mock-up dashboard to su
 ## Insights
 - The **Total revenue** has dropped by 7.8%, but once the 5G services was implemented, there was only a decrease of 0.5%
 - The **average revenue per user** for the company is currently at 200.7 rupees, and after the implementation of 5G, it has seen a significant increase of 11%
-- 
+- After 5G, there was a sharp drop of 23.5% in unsubscribed users, which came after a reduction of 8.3% in total active users
+- Mumbai, Delhi, and Kolkata are the top three cities that contribute the most to revenue and have the most active user base
+- Customers in Mumbai, Patna and Lucknow account for the top three average revenues per user
+- AtliQo holds the 3rd highest market share and has maintained that position throughout the year
+- The plan "p1" has been the top performer in terms of revenue and has seen a 32% increase in revenue after the implementation of 5G technology
+- The plans "p11", "p12" and "p13" were introduced after 5G. "p11" and "p12" have contributed moderately in terms of revenue, however "p13" did not receive much support from customers
+- The plans "p2" and "p3" have performed well in terms of revenue both before and after the launch of 5G
 
 
